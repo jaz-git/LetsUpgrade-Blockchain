@@ -1,0 +1,50 @@
+Question 1:
+
+What is your understanding of Blockchain?
+
+Solution:
+
+Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. It  is an  essential digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain and not a centralised one.It  is also a distributed database existing on multiple computers at the same time and  it is constantly growing as new sets of recordings, or 'blocks', are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain.
+
+Question 2:
+
+What is the core problem Blockchain trying to solve?
+
+Solution:
+
+Centralization - No central authority is required to manage
+Tranparency - When a transaction is made it will be duplicated and distributed across the network and hence it is visble to everyone.
+Security - It will be difficuilt to hack as each transaction is duplicated in millions of computers.
+
+
+Question 3:
+
+What are the few features which Blockchain will give you?
+
+Solution:
+ 
+Data stored in blockchain is immutable.
+Decentralized as well as an open ledger.
+Peer to peer network connection.
+
+Question 4:
+
+What all things does a Block contain?
+
+Solution:
+
+Data
+Hash
+Hash of the previous block
+
+Question 5:
+
+How is the verifiability of Blockchain has been attained?
+
+Solution:
+
+Blockchain acts as a decentralized ledger with multiple nodes in the network, the transaction must be verified by all nodes. All blockchains are continuous chains starting from a genesis block upto to the current block.
+
+During the process of creating a new block, the transactions are hashed and a unique output or result is created. A hash function, takes input, and produces a specific output of a fixed size. It acts a digital fingerprint which cannot be modified.
+
+The successive block in the chain contains a hash of the previous block and each block refers to its predecessor block for authentication. The transactions in a blockchain are referred to by their hash. For authentication of a transaction, all nodes must receive same output by running the hash. If different output is received then the transaction is considered invalid and is not verified.
